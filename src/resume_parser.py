@@ -1,8 +1,6 @@
 
----
 
 ### **File: src/resume_parser.py**
-```python
 import PyPDF2
 import spacy
 
